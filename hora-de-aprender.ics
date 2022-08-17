@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//udemy.com//Udemy
+METHOD:PUBLISH
+BEGIN:VEVENT
+ORGANIZER;CN="Udemy":mailto:no-reply@udemy.com
+SUMMARY:Hora de aprender!
+SEQUENCE:0
+DTSTAMP:20220304T195859Z
+DTSTART;TZID=America/Sao_Paulo:20220306T220000
+DTEND;TZID=America/Sao_Paulo:20220306T220500
+UID:174794
+RRULE:FREQ=WEEKLY;BYDAY=SU;
+DESCRIPTION:BPM, BPMN e Modelagem de Processos com Bizagi (https://www.udemy.com/course/bpm-bpmn-e-modelagem-de-processos-com-bizagi/learn/)
+
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Hora de aprender!
+END:VALARM
+END:VEVENT
+END:VCALENDAR

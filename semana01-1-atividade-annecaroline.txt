@@ -1,0 +1,16 @@
+1 - Qual seu nome completo (sem abreviações)?
+b. Qual eu número de matrícula no IFPI?
+	20221110649
+c. Qual seu e-mail utilizado para acessar a plataforma Google Classroom?
+	catce.2022111mtds0649@aluno.ifpi.edu.br
+d. Qual seu telefone (preferencialmente Whatsapp)?
+	86988298273
+e. Assinou Termo de Compromisso para recebimento do auxílio conectividade?
+	Não
+f. Qual seu login de acesso na plataforma Github (https://github.com/)? Caso ainda não possua, crie sua conta na
+plataforma. Se não for possível criar, exponha os motivos que impedem a criação da conta.
+	https://github.com/annecaroline00
+	annecaroline00
+g. Qual seu e-mail de acesso na plataforma Run Codes (https://run.codes/)? Caso ainda não possua, crie sua conta
+na plataforma. Se não for possível criar, exponha os motivos que impedem a criação da conta.
+	catce.2022111mtds0649@aluno.ifpi.edu.br
