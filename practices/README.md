@@ -1,4 +1,5 @@
-Front End Programming
-        Basic concepts
+# Front End Programming
         
-        1st period of Tec in Systems Development, I will still have classes of Front-End Developer. 
+# Basic concepts
+
+## 1st period of Tec in Systems Development, I will still have classes of Front-End Developer. 
