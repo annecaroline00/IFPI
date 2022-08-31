@@ -30,14 +30,13 @@ class Bike:
         
 
     def calibrarPneu (self, calibragemAtual):      
-
+        
         if self.calibragemAtual == self.calibragem:
             print("Calibrar")
-        elif self.calibragemAtual <= self.calibragem_max:
+        elif self.calibragemAtual > self.calibragem_max:
             print("NÃO PRECISA CALIBRAR")
+        
 
-
-        pass
 
 
 b1 = Bike("amarela", "caloi", 26, 5, 28)
