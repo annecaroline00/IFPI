@@ -4,13 +4,29 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="assets/css/style.css"/>
+    <script src="assets/js/script.js" defer></script>
 
     <title>Jogo da adivinha</title>
 </head>
 <body>
-    <form>
+    <main>
+        <h1> Adivinhe um número:</h1>
 
-    </form>
+        <p>
+
+        </p>
+        <form action="#">
+            <label for ="campo_numero">Digite seu palpite:</label>
+            <input id = "campo_numero" type="number" min="1" max = "101"/>
+            <input type="submit" value="Enviar palpite"/>
+        </form>
+
+        <p id="palpites">Palpites anteriores</p>
+        <p id="erro" >Errados!</p>
+        <p id="acerto">Parabéns! Seu palpite está correto!</p>
+        <p id="dica">Seu palpite está muito baixo!</p>
+    </main>
 </body>
 </html>
 

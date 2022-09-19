@@ -1,0 +1,19 @@
+body {
+    background: black;
+    color: white;
+}
+
+main {
+    max-width: 600px;
+    min-height: 400px;
+    background: bisque;
+    margin: 0 auto;
+}
+
+p#erro{
+    background: red;
+}
+
+.visivel {
+    display: block;
+}
