@@ -1,0 +1,17 @@
+#container {
+    height: 60vh;
+    display: flex;
+    flex-direction: row;
+}
+
+#container div {
+    flex: 1;
+}
+
+#left {
+    background: red;
+}
+
+#right {
+    background: yellowgreen;;
+}
